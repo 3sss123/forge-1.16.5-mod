@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "fmltutor:goldenegg",
+    "pattern": [
+        "###",
+        "#*#",
+        "###"
+    ],
+    "key": {
+        "#":{"item": "minecraft:gold_ingot"},
+        "*":{"item": "minecraft:egg"}
+    },
+    "result": {"item": "fmltutor:golden_Egg","count": 1}
+}
